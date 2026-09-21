@@ -84,39 +84,16 @@ Quero ter a oportunidade de trabalhar em um ambiente profissional, aprender com 
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoRGM&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoRGM&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ### 📫 Entre em contato
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/yago-moraes/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/yago-moraes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://github.com/YagoRGM">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/YagoRGM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
+  <a href="mailto:yago.roberto2008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
-
-<div align="center">
-
-### 🐍 Minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoRGM/YagoRGM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoRGM/YagoRGM/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YagoRGM/YagoRGM/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
